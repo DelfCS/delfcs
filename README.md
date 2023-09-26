@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    <h5>[P14 - Algorithme et programmation](https://github.com/delfcs/multihexa/session1/p14)</h5>
+    <h5><a href="https://github.com/delfcs/multihexa/session1/p14">[P14 - Algorithme et programmation]</a></h5>
   </li>
   <li>
     <h5>T24 - Introduction aux réseaux</h5>
