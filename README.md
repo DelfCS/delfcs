@@ -1,6 +1,34 @@
 <h1>Delfik Latulippe</h1>
-<h3>Portfolio</h3>
-<h3>Multihexa 2022-2023</h3>
+<h2>Portfolio de mon parcour chez Multihexa 2022-2023</h3>
+<br>
+
+<h3>Session 1 - Mars 2022</h3>
+<hr>
+
+<ul>
+  <li>
+    <h5>[P14 - Algorithme et programmation](https://github.com/delfcs/multihexa/session1/p14)</h5>
+  </li>
+  <li>
+    <h5>T24 - Introduction aux réseaux</h5>
+  </li>
+</ul>
+
+<h3>Session 3 - Septembre 2022</h3>
+<hr>
+
+<ul>
+  <li>
+    <h5>P14 - Algorithme et programmation</h5>
+  </li>
+  <li>
+    <h5>T24 - Introduction aux réseaux</h5>
+  </li>
+</ul>
+
+
+
+
 
 <!--
 **DelfCS/delfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
