@@ -1,5 +1,6 @@
-Delfik Latulippe portfolio
-@multihexa 2022-2023
+<h1>Delfik Latulippe</h1>
+<h3>Portfolio</h3>
+<h3>Multihexa 2022-2023</h3>
 
 <!--
 **DelfCS/delfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
