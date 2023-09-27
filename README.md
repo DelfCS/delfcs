@@ -30,9 +30,6 @@
   <li>
     <h5><a href="https://github.com/delfcs/multihexa-session4-w24">W24 - Développement d'applications Web</a></h5>
   </li>
-  <li>
-    <h5><a href="https://github.com/delfcs/multihexa-session1-p34">P34 - Programmation orientée objet</a></h5>
-  </li>
 </ul>
 
 
