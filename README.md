@@ -41,6 +41,15 @@
   </li>
 </ul>
 
+<h3>Session 6 - Juin 2023</h3>
+<hr>
+
+<ul>
+  <li>
+    <h5><a href="https://github.com/delfcs/multihexa-session6-projet-final">A85/P95 - Projet Final</a></h5>
+  </li>
+</ul>
+
 
 
 
