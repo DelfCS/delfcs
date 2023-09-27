@@ -14,6 +14,15 @@
   </li>
 </ul>
 
+<h3>Session 3 - septembre 2022</h3>
+<hr>
+
+<ul>
+  <li>
+    <h5><a href="https://github.com/delfcs/multihexa-session3-p34">P34 - Programmation orientée objet</a></h5>
+  </li>
+</ul>
+
 <h3>Session 4 - decembre 2022</h3>
 <hr>
 
