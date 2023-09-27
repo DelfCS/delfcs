@@ -2,7 +2,7 @@
 <h2>Portfolio de mon parcour chez Multihexa 2022-2023</h3>
 <br>
 
-<h3>Session 4 - Mars 2022</h3>
+<h3>Session 1 - Mars 2022</h3>
 <hr>
 
 <ul>
