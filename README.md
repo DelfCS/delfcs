@@ -19,10 +19,10 @@
 
 <ul>
   <li>
-    <h5>P14 - Algorithme et programmation</h5>
+    <h5><a href="https://github.com/delfcs/multihexa-session3-p24">P24 - Programmation structurée</a></h5>
   </li>
   <li>
-    <h5>T24 - Introduction aux réseaux</h5>
+    <h5><a href="https://github.com/delfcs/multihexa-session1-p34">P34 - Programmation orientée objet</a></h5>
   </li>
 </ul>
 
