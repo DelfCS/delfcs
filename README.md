@@ -2,7 +2,7 @@
 <h2>Portfolio de mon parcour chez Multihexa 2022-2023</h3>
 <br>
 
-<h3>Session 1 - Mars 2022</h3>
+<h3>Session 4 - Mars 2022</h3>
 <hr>
 
 <ul>
@@ -14,12 +14,12 @@
   </li>
 </ul>
 
-<h3>Session 3 - Septembre 2022</h3>
+<h3>Session 4 - decembre 2022</h3>
 <hr>
 
 <ul>
   <li>
-    <h5><a href="https://github.com/delfcs/multihexa-session3-p24">P24 - Programmation structurée</a></h5>
+    <h5><a href="https://github.com/delfcs/multihexa-session4-w24">W24 - Développement d'applications Web</a></h5>
   </li>
   <li>
     <h5><a href="https://github.com/delfcs/multihexa-session1-p34">P34 - Programmation orientée objet</a></h5>
